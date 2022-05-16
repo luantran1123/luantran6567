@@ -1,0 +1,24 @@
+﻿body {
+}
+.khungLon {
+    background-color:#ac73d3;
+    padding:50px; /*padding khcach tu nd > toi nd <*/
+    width
+}
+.khungNho {
+    background-color:black; /*mau nen*/
+    border-radius:5px; /*vien tron*/
+    text-align:center;
+    padding:20px; 
+    color:white;
+    width:200px;
+}
+.color {
+    color:#366ed4;
+}
+.btn {
+    border-radius:5px;
+    background-color:transparent;
+    padding:9px;
+    font-family:sans-serif;
+}
